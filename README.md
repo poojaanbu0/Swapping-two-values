@@ -30,11 +30,8 @@ n1 = temp
 print('Swapped values are: {} {}'.format(n1,n2))
 ```
 ## Output
-![out123](./swap.png)
+![Screenshot 2023-11-13 103821](https://github.com/poojaanbu0/Swapping-two-values/assets/119390329/65ff9314-b4e0-4585-8988-9c818b2e79da)
 
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
-
-
-
